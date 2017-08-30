@@ -1,0 +1,54 @@
+h1
+	{
+		color:Black;
+	}
+
+h2
+	{
+		color:olive;
+		text-transform:uppercase;
+		font-size:15px;
+	}
+
+.paragraph
+	{
+		border-top: 3px solid olive;
+		border-bottom: 3px solid olive;
+	}
+
+.instructions
+	{
+		font-weight:bold;
+		border-bottom: 3px solid olive;
+	}
+
+.tags
+	{	
+		color:turquoise;
+		border-bottom: 3px solid olive;	
+	}
+
+.tags	img
+		{
+			width:3%;
+			height:5%;
+		}
+
+.text
+	{
+		float:right;
+		width:66%;
+	}
+
+.thumbnail
+	{
+		float:left;
+		width:33%;
+	}	
+
+.thumbnail img
+	{
+		width:100%;
+		height:85%;
+	}
+article{width:100%;}
